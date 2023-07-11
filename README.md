@@ -1,9 +1,2 @@
-# 끊임없이 성장하는, 장영민 입니다.
-
-## Github Stats
-![angrydeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongmins)
-
-## Tech Stacks
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 📌 꾸준히 성장하는 개발자, 장영민 입니다.
+![yeongmins 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=yeongmins&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
